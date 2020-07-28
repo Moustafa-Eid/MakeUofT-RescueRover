@@ -1,4 +1,6 @@
 # MakeUofT Makeathon Project - RescueRover
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/154/794/datas/original.png" width="500">
+
 
 ## Check out our devpost for pics and more info!
 ## Devpost: https://devpost.com/software/rescue-rover
